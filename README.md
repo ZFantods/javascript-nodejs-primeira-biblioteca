@@ -13,3 +13,14 @@ Durante o curso, são abordados os seguintes tópicos:
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) Ambiente de execução JavaScript do lado do servidor.
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Linguagem de programação utilizada para desenvolver a biblioteca.
+
+## 🔗 Referências do curso
+- Artigo: [Começando com o terminal](https://www.alura.com.br/artigos/comecando-com-o-terminal-manipulando-arquivos-e-diretorios) para manipular arquivos e diretórios.
+- Artigo: [O que é CLI e como utilizar a interface de linha de comando](https://www.alura.com.br/artigos/cli-interface-linha-comandos).
+- Artigo: [Guia de importaçã e exportação de módulos em JS](https://www.alura.com.br/artigos/guia-importacao-exportacao-modulos-javascript)
+- Artigo: [async/await: o que é e como usar](https://www.alura.com.br/artigos/async-await-no-javascript-o-que-e-e-quando-usar)
+- Documentação do Node.js: [process.argv](https://nodejs.org/api/process.html#processargv).
+- Documentação do Node.js: [fs.readFile](https://nodejs.org/api/fs.html#fsreadfilepath-options-callback).
+- Documentação do MDN: [flatMap](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap).
+- Documentação do MDN: [objeto Error](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
+- Documentação do MDN: [objeto Promise](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise)
