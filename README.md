@@ -24,3 +24,5 @@ Durante o curso, são abordados os seguintes tópicos:
 - Documentação do MDN: [flatMap](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap).
 - Documentação do MDN: [objeto Error](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 - Documentação do MDN: [objeto Promise](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- NPM: [commander](https://www.npmjs.com/package/commander)
+- NPM: [chalk](https://www.npmjs.com/package/chalk)
